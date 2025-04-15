@@ -1,6 +1,7 @@
 # Copper-Industry-Sales-Prediction-Lead-Classification
-•	Designed and deployed a complete ML solution for the copper industry to predict Selling Price (regression) and classify lead Status (WON/LOST), using XGBoost, ExtraTrees, and Logistic Regression.
-•	Addressed data challenges like missing values, outliers, and skewed distributions using IQR, log transformation, and Isolation Forest.
-•	Engineered features and encoded categorical variables; integrated trained models into a real-time Streamlit web app using Pickle for business-friendly interaction and predictions.
+•	Developed an end-to-end machine learning solution for the copper industry to predict product selling prices (regression) and classify sales leads as WON/LOST (classification).
+•	 The project involved extensive data preprocessing (outlier treatment, skewness handling, feature engineering), model training using ExtraTrees and RandomForest algorithms, and deployment via a Streamlit web app. 
+•	Enabled real-time user input, dynamic predictions, and insights through an interactive GUI with integrated scaling and model loading using joblib.
+•	Tools Used: Python, Pandas, Scikit-learn, XGBoost, Streamlit, Matplotlib, Seaborn, Pickle
 
 
